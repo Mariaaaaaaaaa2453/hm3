@@ -139,7 +139,7 @@ public:
 class MobilePhone // ��������� �������
 {
 public:
-	string color_phone = "white";
+	string color_phone = "silver";
 	string brand = "iphone";
 	bool case_phone = true;
 	string case_color = "purple";
